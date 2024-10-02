@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,a5 as n}from"./chunks/framework.Djspl_t8.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"arch/index.md","filePath":"arch/index.md"}'),i={name:"arch/index.md"},l=n("",74),o=[l];function c(t,p,d,r,h,u){return e(),a("div",null,o)}const k=s(i,[["render",c]]);export{b as __pageData,k as default};
